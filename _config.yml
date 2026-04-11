@@ -26,7 +26,7 @@ author:
   name             : "Daiki Chinen"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Center for Computational Sciences"
+  location         : "Center for \nComputational Sciences"
   employer         : "University of Tsukuba"
   uri              : https://www2.ccs.tsukuba.ac.jp/Astro/home/ja/
   email            : "daiki@ccs.tsukuba.ac.jp" 
