@@ -17,15 +17,16 @@ main:
   - title: "Talks"
     url: /talks/    
     
-
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "English"
+    url: /english/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
